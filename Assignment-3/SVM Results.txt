@@ -1,0 +1,39 @@
+Logistic Regression:-
+ Training set Accuracy:92.706%
+
+ Validation set Accuracy:91.44%
+
+ Testing set Accuracy:91.93%
+
+
+SVM With linear kernel
+ Training set Accuracy:97.286%
+
+ Validation set Accuracy:93.64%
+
+Testing set Accuracy:93.78%
+
+
+
+SVM With radial basis kernel and gamma =1
+
+ Training set Accuracy:100.0%
+
+ Validation set Accuracy:15.479999999999999%
+
+ Testing set Accuracy:17.14%
+
+
+
+SVM with radial basis kernel with gamma default
+
+ Training set Accuracy:98.982%
+
+ Validation set Accuracy:97.89%
+
+ Testing set Accuracy:97.87%
+
+
+
+
+
